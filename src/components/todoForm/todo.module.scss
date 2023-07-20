@@ -1,0 +1,40 @@
+.formWrapp {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    height: 40px;
+    margin-bottom: 20px;
+}
+
+.formInput {
+    flex: 0 1 80%;
+    border: 1px solid #292cdd;
+    background-color: #ececec;
+    margin-right: 5px;
+    padding: 10px 0 0 5px;
+    font-size: 16px;
+
+    &:focus {
+        outline: none;
+        border: 0;
+        border-bottom: 1px solid #292cdd;
+    }
+}
+
+.formSumbit {
+    font-weight: 500;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    outline: 2px solid #121458;
+    outline-offset: -2px;
+    background-color: #292cdd;
+    color: #fff;
+    flex: 0 1 20%;
+    padding: 0;
+    transition: background-color .3s ease-in-out;
+
+    &:hover {
+        background-color: #2326b8;
+    }
+}

@@ -1,0 +1,14 @@
+.header {
+    background-color: #292cdd;
+    min-height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    border-radius: 5px;
+
+    .todoTitle {
+        color: #fff;
+        font-weight: 500;
+    }
+}
