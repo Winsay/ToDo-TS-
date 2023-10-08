@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ToDo-TS-/static/css/main.7e48a9e0.css",
+    "main.js": "/ToDo-TS-/static/js/main.6b2e23f4.js",
+    "static/js/787.a5cad257.chunk.js": "/ToDo-TS-/static/js/787.a5cad257.chunk.js",
+    "static/media/sadFace.svg": "/ToDo-TS-/static/media/sadFace.31b7f0f95eae6937db582d444247507f.svg",
+    "static/media/unlock.svg": "/ToDo-TS-/static/media/unlock.2f2bf874f33aa94331c06d0a51dae439.svg",
+    "static/media/lock.svg": "/ToDo-TS-/static/media/lock.ddb528383055c8cbddfadc75eb28d8d0.svg",
+    "static/media/change.svg": "/ToDo-TS-/static/media/change.dac61bf6950ca38e401413aea87efc3d.svg",
+    "static/media/active_change.svg": "/ToDo-TS-/static/media/active_change.b1ef4c4a82931bf1b2b0344c1984f709.svg",
+    "static/media/delete.svg": "/ToDo-TS-/static/media/delete.c6847de373c131d6b38f26af2364e8a1.svg",
+    "index.html": "/ToDo-TS-/index.html",
+    "main.7e48a9e0.css.map": "/ToDo-TS-/static/css/main.7e48a9e0.css.map",
+    "main.6b2e23f4.js.map": "/ToDo-TS-/static/js/main.6b2e23f4.js.map",
+    "787.a5cad257.chunk.js.map": "/ToDo-TS-/static/js/787.a5cad257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e48a9e0.css",
+    "static/js/main.6b2e23f4.js"
+  ]
+}
